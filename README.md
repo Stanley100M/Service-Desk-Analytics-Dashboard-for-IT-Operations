@@ -23,6 +23,8 @@ Star schema with:
 - Dim_Priority
 - Dim_Status
 - Dim_Category
+- Dim_Impact
+- Dim_Department
 
 ## KPIs
 - Total Tickets
