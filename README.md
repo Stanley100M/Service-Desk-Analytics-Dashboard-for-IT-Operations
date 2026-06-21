@@ -4,7 +4,7 @@ A data-driven IT service management (ITSM) analytics project designed to monitor
 
 ## Tools Used
 - SQL Server
-- Power BI
+- Power BI(Data warehousing)
 - DAX
 - Excel/CSV
 
