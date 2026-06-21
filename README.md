@@ -36,6 +36,15 @@ Star schema with:
 - CSAT Score
 - First Contact Resolution Rate
 
+## Key Valuable Insights
+- Ticket volume peaked in the month of September to November, suggesting periods of increased operational activity or recurring system issues.
+- Open vs Closed Ticket Performance: The service desk resolved 90% of all tickets logged during the year, reflecting strong operational efficiency. However, 10% of tickets remained open, forming a backlog that may affect service quality and SLA compliance. Further analysis of backlog drivers is recommended to improve resolution performance and reduce outstanding workload.
+- The most notable finding was the SLA compliance rate of 53.3%. This indicated that almost one in every two tickets exceeded its target resolution time. I used dimensional analysis to identify which categories and departments were associated with the highest breach rates, allowing me to pinpoint operational bottlenecks and areas for service improvement.
+- Top SLA Breach Categories: Password Reset, Network Connectivity, Mobile Device Support, and Phishing Email Reports recorded the highest number of SLA breaches. These categories represent key operational pressure points and should be prioritized for process optimization, resource allocation, and automation initiatives to improve SLA compliance and service delivery performance.
+
+
+
+
 ## Dashboard Pages
 1. Executive Summary
 2. Service Desk Performance
