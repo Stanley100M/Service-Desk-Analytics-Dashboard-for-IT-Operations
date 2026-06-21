@@ -28,8 +28,11 @@ Star schema with:
 
 ## KPIs
 - Total Tickets
+- Open and Closed Tickets
 - SLA Compliance %
+- SLA Breach %
 - Avg Resolution Time
+- Avg Feedback Rating
 - CSAT Score
 - First Contact Resolution Rate
 
