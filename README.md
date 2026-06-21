@@ -48,10 +48,23 @@ Star schema with:
 - Customer Satisfaction: The average customer satisfaction rating was 3.01, with Lucy and Irene receiving the highest ratings; notably, both agents were also the second and third fastest at resolving tickets, suggesting a strong link between timely resolution and positive customer experience
 - Resolution Time Analysis: The average ticket resolution time was 22.81 hours, but issues related to MFA Support (27.6 hrs), Core Banking Application Access (27.2 hrs), and New User Setup (26.7 hrs) took significantly longer to resolve, suggesting that access management and user provisioning processes are key contributors to service delays.
 
+## Key Recommendations
+- Implement **self-service automation and password reset tools** to reduce SLA breaches in high-volume categories such as Password Reset, MFA Support, and Mobile Device Support, which are currently major drivers of service delays.
+- Optimize **access management and user provisioning workflows**, particularly for Core Banking Application Access and New User Setup, as these categories show consistently high resolution times and indicate process bottlenecks.
+- Introduce a **Knowledge Base (KB) and guided troubleshooting flows** for recurring Medium priority incidents to reduce dependency on the service desk and improve first-contact resolution rates.
+- Conduct a **root-cause analysis of SLA breaches (53.3% compliance rate)** to identify systemic issues such as tooling gaps, process inefficiencies, or insufficient prioritization rules.
+- Strengthen **proactive problem management** for recurring high-impact categories, especially Network Connectivity and Phishing Email Reports, to reduce repeat incidents and improve overall service stability.
+- Review and optimize **ticket backlog management processes**, since 10% of tickets remain unresolved, to prevent accumulation of aging tickets that may negatively impact SLA performance.
+- Benchmark and replicate best practices from **high-performing agents like Esther, Lucy, and Irene**, as their strong resolution speed and customer satisfaction scores indicate effective handling strategies.
+- Provide targeted support or workload review for agents such as **Joseph**, where longer resolution times suggest potential complexity imbalances or efficiency gaps.
+- Improve **incident prevention strategies for IT, Risk & Compliance, Treasury, and Branch Operations**, as these departments generate the highest ticket volumes and would benefit from system stability improvements and workflow automation.
+- Align **priority classification rules and escalation processes**, since a high proportion of High and Medium priority tickets indicates significant operational pressure and potential inconsistency in ticket triaging.
+- Enhance **service desk capacity planning during peak months (September–November)** to proactively manage increased ticket volumes and maintain SLA performance during high-demand periods.
+- Strengthen the relationship between **resolution time and customer satisfaction**, by enforcing faster handling of priority tickets, as faster agents consistently achieved higher CSAT scores.
 
-
+### Conclusion: 
+This analysis demonstrates how data-driven ITSM can improve operational efficiency, reduce SLA breaches, and enhance user satisfaction through targeted process improvements and automation strategies.
 ## Dashboard Pages
 1. Executive Summary
 2. Service Desk Performance
-3. Incident Analysis
-4. SLA & Customer Satisfaction
+
