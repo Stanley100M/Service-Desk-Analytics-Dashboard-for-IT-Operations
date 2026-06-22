@@ -2,11 +2,18 @@
 A data-driven IT service management (ITSM) analytics project designed to monitor and optimize service desk operations. The dashboard provides visibility into ticket lifecycles, support team performance, incident categories, SLA adherence, and customer satisfaction through interactive visualizations.
 
 
-## Tools Used
+## Tools and Technologies
 - SQL Server
 - Power BI(Data warehousing)
 - DAX
-- Excel/CSV
+- Excel
+- CSV
+- SQL Server
+- Data Modeling
+- Star Schema
+- ETL
+- Business Intelligence
+
 
 ## Key Features
 - Ticket lifecycle monitoring
