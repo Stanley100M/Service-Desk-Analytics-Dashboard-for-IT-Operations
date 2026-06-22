@@ -32,6 +32,17 @@ Star schema with:
 - Dim_Category
 - Dim_Impact
 - Dim_Department
+![Star Schema](https://github.com/Stanley100M/Service-Desk-Analytics-Dashboard-for-IT-Operations/blob/main/Screenshots/KIMBALL%20STAR%20SCHEMA.JPG)
+
+- Facts Table
+  ![Facts Table](https://github.com/Stanley100M/Service-Desk-Analytics-Dashboard-for-IT-Operations/blob/main/Screenshots/fact_table.PNG)
+- Staging Table
+  ![Facts Table](https://github.com/Stanley100M/Service-Desk-Analytics-Dashboard-for-IT-Operations/blob/main/Screenshots/sql_staging_table.png)
+
+
+## Power BI Dashboard
+1. Executive Summary
+2. Service Desk Performance
 
 ## KPIs
 - Total Tickets
@@ -71,7 +82,11 @@ Star schema with:
 
 ### Conclusion: 
 This analysis demonstrates how data-driven ITSM can improve operational efficiency, reduce SLA breaches, and enhance user satisfaction through targeted process improvements and automation strategies.
-## Dashboard Pages
-1. Executive Summary
-2. Service Desk Performance
+ 
+
+## 👤 Author
+
+ Stanley Eric  
+
+Business Intelligence Analyst | Data Analyst | Tableau Developer
 
